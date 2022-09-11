@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DAPAR"]
+	path = DAPAR
+	url = https://github.com/prostarproteomics/dapar
+	shallow = true
+	registered = true
 [submodule "Prostar"]
 	path = Prostar
 	url = https://github.com/prostarproteomics/prostar
