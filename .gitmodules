@@ -8,8 +8,3 @@
 	url = https://github.com/prostarproteomics/dapar
 	shallow = true
 	registered = true
-[submodule "Prostar"]
-	path = Prostar
-	url = https://github.com/prostarproteomics/prostar
-	shallow = true
-	registered = true
