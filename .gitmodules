@@ -5,6 +5,3 @@
 [submodule "DAPAR"]
 	path = DAPAR
 	url = https://github.com/prostarproteomics/dapar
-[submodule "Prostar"]
-	path = Prostar
-	url = https://github.com/prostarproteomics/prostar
